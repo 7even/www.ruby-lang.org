@@ -44,7 +44,7 @@ lang: ru
 Значительные изменения:
 
 * VM (кеш методов)
-* RGenGC (Смотри презентацию ko1 [на RubyKaigi](http://rubykaigi.org/2013/talk/S73) и [на RubyConf 2013](http://www.atdot.net/~ko1/activities/rubyconf2013-ko1_pub.pdf))
+* RGenGC (см. презентацию ko1 [на RubyKaigi](http://rubykaigi.org/2013/talk/S73) и [на RubyConf 2013](http://www.atdot.net/~ko1/activities/rubyconf2013-ko1_pub.pdf))
 * refinements [#8481](https://bugs.ruby-lang.org/issues/8481) [#8571](https://bugs.ruby-lang.org/issues/8571)
 * изменения в синтаксисе
   * Decimal/Complex Literal [#8430](https://bugs.ruby-lang.org/issues/8430)
@@ -56,9 +56,9 @@ lang: ru
 * Socket.getifaddrs [#8368](https://bugs.ruby-lang.org/issues/8368)
 * RDoc 4.1.0.preview.2 и RubyGems 2.2.0.preview.2
 
-Смотри больше подробностей об изменениях: [NEWS in Ruby repository (WIP)](https://github.com/ruby/ruby/blob/v2_1_0_preview2/NEWS).
+Подробнее об изменениях см. [NEWS в репозитории Ruby (WIP)](https://github.com/ruby/ruby/blob/v2_1_0_preview2/NEWS).
 
-ko1 рассказывает про новые фичи Ruby 2.1 at toruby: [All about Ruby 2.1](http://www.atdot.net/~ko1/activities/toruby05-ko1.pdf)
+ko1 рассказывает про новые фичи Ruby 2.1 на toruby: [All about Ruby 2.1](http://www.atdot.net/~ko1/activities/toruby05-ko1.pdf)
 
 Konstantin Haase (@konstantinhaase) написал хороший пост в своем блоге: [What's new in Ruby 2.1?](http://rkh.im/ruby-2.1).
 
@@ -68,6 +68,6 @@ Konstantin Haase (@konstantinhaase) написал хороший пост в с
 
 [http://bugs.ruby-lang.org/projects/ruby-trunk/issues?query_id=102](http://bugs.ruby-lang.org/projects/ruby-trunk/issues?query_id=102)
 
-О плане релизов и другую информацию можно получить тут:
+График релизов и другую информацию можно получить тут:
 
 [http://bugs.ruby-lang.org/projects/ruby-trunk/wiki/ReleaseEngineering210](http://bugs.ruby-lang.org/projects/ruby-trunk/wiki/ReleaseEngineering210)
